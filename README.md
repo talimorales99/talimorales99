@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola! Soy Tali 👋
 
-<!--
-**talimorales99/talimorales99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Técnica en Desarrollo de Software.
 
-Here are some ideas to get you started:
+Me interesa el desarrollo web y la creación de aplicaciones que ayuden a emprendedores y negocios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- HTML
+- CSS
+- JavaScript
+
+## Proyectos
+
+🌐 Catálogo web de Thais Papelería  
+Aplicación web para mostrar productos de papelería personalizada.
+
+📱 Calculadora de líquidos para cigarrillo electrónico  
+Aplicación que permite calcular mezclas para vapeo.
+
+👩‍💻 Aplicación desarrollada en equipo durante la carrera.
+
+## Contacto
+
+LinkedIn: (tu linkedin)
