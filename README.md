@@ -22,4 +22,4 @@ Aplicación que permite calcular mezclas para vapeo.
 
 ## Contacto
 
-LinkedIn: (tu linkedin)
+LinkedIn: https://www.linkedin.com/in/talia-morales99/
